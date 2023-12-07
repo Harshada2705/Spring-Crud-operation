@@ -1,8 +1,8 @@
-package com.nilesh.springboot.crud.service;
+package com.harsh.springboot.crud.service;
 
 import java.util.List;
 
-import com.nilesh.springboot.crud.model.Category;
+import com.harsh.springboot.crud.model.Category;
 
 public interface CategoryService {
 	
