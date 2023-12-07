@@ -1,4 +1,4 @@
-package com.nilesh.springboot.crud;
+package com.harsh.springboot.crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,8 +10,7 @@ public class SpringBootCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudApplication.class, args);
-		
-		System.out.println("All application running sucessfully.........");
+	
 	}
 
 }
