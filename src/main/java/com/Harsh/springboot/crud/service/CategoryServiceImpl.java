@@ -1,4 +1,4 @@
-package com.nilesh.springboot.crud.service;
+package com.harsh.springboot.crud.service;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-import com.nilesh.springboot.crud.model.Category;
-import com.nilesh.springboot.crud.repository.CategoryRepository;
+import com.harsh.springboot.crud.model.Category;
+import com.harsh.springboot.crud.repository.CategoryRepository;
 @Service
 public class CategoryServiceImpl implements CategoryService {
 
