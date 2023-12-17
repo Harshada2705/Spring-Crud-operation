@@ -1,4 +1,4 @@
-package com.harsh.springboot.crud.controller;
+package com.Harsh.springboot.crud.controller;
 
 import java.util.List;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.harsh.springboot.crud.model.Product;
-import com.harsh.springboot.crud.service.ProductService;
+import com.Harsh.springboot.crud.model.Product;
+import com.Harsh.springboot.crud.service.ProductService;
 
 
 @RestController

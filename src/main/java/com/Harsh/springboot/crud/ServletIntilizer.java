@@ -1,4 +1,4 @@
-package com.harsh.springboot.crud;
+package com.Harsh.springboot.crud;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

@@ -1,4 +1,4 @@
-package com.harsh.springboot.crud.controller;
+package com.Harsh.springboot.crud.controller;
 
 import java.util.List;
 
@@ -14,11 +14,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.harsh.springboot.crud.model.Category;
-import com.harsh.springboot.crud.service.CategoryService;
+import com.Harsh.springboot.crud.model.Category;
+import com.Harsh.springboot.crud.service.CategoryService;
 
 @RestController
-@RequestMapping("/api/category")
+@RequestMapping("/api/categories")
 public class CategoryController {
 	
 	@Autowired

@@ -1,4 +1,4 @@
-package com.harsh.springboot.crud.model;
+package com.Harsh.springboot.crud.model;
 
 
 import javax.persistence.Column;

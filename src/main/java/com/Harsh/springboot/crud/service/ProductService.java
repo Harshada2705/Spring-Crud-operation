@@ -1,9 +1,9 @@
-package com.harsh.springboot.crud.service;
+package com.Harsh.springboot.crud.service;
 
 import java.util.List;
 
 
-import com.harsh.springboot.crud.model.Product;
+import com.Harsh.springboot.crud.model.Product;
 
 public interface ProductService {
 	

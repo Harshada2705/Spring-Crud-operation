@@ -1,4 +1,4 @@
-package com.harsh.springboot.crud.service;
+package com.Harsh.springboot.crud.service;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
-import com.harsh.springboot.crud.model.Product;
-import com.harsh.springboot.crud.repository.ProductRepository;
+import com.Harsh.springboot.crud.model.Product;
+import com.Harsh.springboot.crud.repository.ProductRepository;
 @Service
 public class ProductServiceImpl implements ProductService {
 
